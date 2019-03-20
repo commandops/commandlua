@@ -10,7 +10,7 @@ title: Command Lua Documentation
 
 description: > # this means to ignore newlines until "baseurl:"
   Lua documentation for the game Command: Modern Air/Naval Operations (CMANO)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/commandlua" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 
